@@ -29,3 +29,5 @@ eslint --init
 **The most difficult part was** fix all the linter's suggestions(were like 50 suggestions)
 
 [Click here](https://github.com/anamariasosam/react_dev_game/) to see the repo with the linter
+
+___
