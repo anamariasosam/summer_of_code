@@ -39,7 +39,7 @@ ___
 
 ## May 24 - Deploy with surge and create more levels in the game
 
-![dev Game demo](https://raw.githubusercontent.com/anamariasosam/summer_of_code/master/gifs/may/23/demo.gif)
+![dev Game demo](https://raw.githubusercontent.com/anamariasosam/summer_of_code/master/gifs/may/24/demo.gif)
 
 Today I deployed the game with [Surge](https://surge.sh/), it was super easy to deployed it,
 the only commands I did are:
