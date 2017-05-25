@@ -51,7 +51,7 @@ surge ./build
 ```
 ![surge demo](https://raw.githubusercontent.com/anamariasosam/summer_of_code/master/gifs/may/24/surge.gif)
 
-After that, my game is deployed  🎉 🎉  in this link [devgame.surge.sh](devgame.surge.sh)
+After that, my game is deployed  🎉 🎉  in this link [devgame.surge.sh](http://devgame.surge.sh/)
 
 
 [Click here](https://github.com/anamariasosam/react_dev_game/) to see the repo
